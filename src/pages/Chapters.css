@@ -1,0 +1,10 @@
+
+.chapter1title {
+    padding: 30px;
+}
+.page_number {
+    text-align: right;
+    padding: 0;
+    margin: 20px;
+    font-weight: bold;
+}
